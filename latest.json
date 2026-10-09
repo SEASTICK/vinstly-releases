@@ -1,0 +1,11 @@
+{
+  "version": "0.2.23",
+  "pub_date": "2026-10-09T10:15:59Z",
+  "notes": "Förbättringar och rättelser.",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://seastick.github.io/vinstly-releases/Vinstly%20Desktop_0.2.23_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1R3dlNMaUdSVDJDMy9wMGI4OVIrNEQrS2FlcDBwSnVsNFoyUVkvQWZES0RzcjhEWkJXd1d6L3UyVGVPd3o0RlJENXU5dmtXNDBkdXovQkZDVHRZYjRqZEFhbXlzNXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQwOTU3CWZpbGU6Vmluc3RseSBEZXNrdG9wXzAuMi4yM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIzCmEzOXBnY1BUKzM1Q0FUa1loU1ZRZEltVXU2TmdZZzE0cW1hM3lIUFFTd1NGZCtvSTEyNjNGTFp5N3ZBM0pwSjFPSXZRcmJhSldmMmo5VmJGbUlnY0RBPT0K"
+    }
+  }
+}
