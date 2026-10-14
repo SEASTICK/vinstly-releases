@@ -1,0 +1,23 @@
+{
+  "version": "0.2.45",
+  "notes": "- Analysanimationen: tjockare V\n- Analysanimationen slutar i ett V: punkterna samlas, V-linjen ritas och texten kommer efteråt",
+  "pub_date": "2026-10-14T19:55:28Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1R3dlNMaUdSVDdtb3VidU9sUTUyWUcwMkU0U3UycHc1K09kUGp0NzVkRkcrV1Z3ZGNDRS9vVGlvZUlnMU9kZzYrRjRUMHBEMXB6THAyQVI4MWtxbktRcXNJSEZFK3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA3NTE1CWZpbGU6Vmluc3RseSBVcGRhdGVyIFRlc3RfMC4yLjQ1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNDUKQzhwY1BHcHViU1I3cnY4WDBLVGpCMDNKVGNJVmdCMEQ0aThKc0lJUlVoaFZIUFhlRUlCWVFtVmpwNmtMVnlHMGROdmtVREVBSzd4ZE82cFNTQnRNQXc9PQo=",
+      "url": "https://seastick.github.io/vinstly-releases/test/Vinstly-Desktop_0.2.45_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1R3dlNMaUdSVDdtb3VidU9sUTUyWUcwMkU0U3UycHc1K09kUGp0NzVkRkcrV1Z3ZGNDRS9vVGlvZUlnMU9kZzYrRjRUMHBEMXB6THAyQVI4MWtxbktRcXNJSEZFK3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA3NTE1CWZpbGU6Vmluc3RseSBVcGRhdGVyIFRlc3RfMC4yLjQ1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNDUKQzhwY1BHcHViU1I3cnY4WDBLVGpCMDNKVGNJVmdCMEQ0aThKc0lJUlVoaFZIUFhlRUlCWVFtVmpwNmtMVnlHMGROdmtVREVBSzd4ZE82cFNTQnRNQXc9PQo=",
+      "url": "https://seastick.github.io/vinstly-releases/test/Vinstly-Desktop_0.2.45_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1R3dlNMaUdSVDhtN2VJOGNCVml3Qnp1STc2NlFTQzgwSEhYUFFPUUpHaDNkU3JMaFRLYnJyZ0FZT1hLWXloenhVZVNTRVppUVNuZ3JGQXpOYXI2bnNyOThQYVFLZEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA2NjA5CWZpbGU6Vmluc3RseSBVcGRhdGVyIFRlc3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40NQowVTlMU1krcng4SDRiVHIxZGZHNkFIOEg5SUlPQTNDTzBNQWwvRVRidlZkZU1nWGNaR1ZrdVZ1ZDZSRHpTWW12SjB4TG5WMnpLM2xkTnRZelcvNE1CQT09Cg==",
+      "url": "https://seastick.github.io/vinstly-releases/test/Vinstly-Desktop_0.2.45_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1R3dlNMaUdSVCswbHZXRXdKKytVS1dlS1ZtdEhrc1ZXOEs5NlJpRUhhR096bkRkcW5ZTkJlazZ2SUNmc1FFbWdEbjA2S1A0NllmR3hGQWlwTkxxS2hGKzZ3S2RrU1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA3Njk3CWZpbGU6Vmluc3RseSBVcGRhdGVyIFRlc3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMi40NQpMRFN0Z1h1TjdQU04zdkg5SEx3V1oyRzFOeml0SmVNU1NtTnZXMTJZMUMvTWZZZVdGWUZaQjZOUklCUGZVMEVLWWRXRFhUc1dBTDV0NDlQRjVGQXZEQT09Cg==",
+      "url": "https://seastick.github.io/vinstly-releases/test/Vinstly-Desktop_0.2.45_x64.app.tar.gz"
+    }
+  }
+}
